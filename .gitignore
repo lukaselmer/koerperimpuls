@@ -7,4 +7,4 @@ logs/*
 node_modules
 .tmp
 bower_components
-
+/public
