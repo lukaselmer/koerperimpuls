@@ -1,0 +1,229 @@
+/*
+Die Stylesheet Datei
+Copyright Lukas Elmer, 2005
+*/
+body	{
+	font-size:16px;
+	font-family:Arial;
+	font-weight:normal;
+	color: #4600B0;
+	background-color:#FEE8CF;
+	margin-top:20px;
+	text-align:justify;
+	scrollbar-face-color:#0101EB; 
+	scrollbar-highlight-color:#FEE8CF;
+	scrollbar-3dlight-color:#FEE8CF;
+	scrollbar-darkshadow-color:#FEE8CF;
+	scrollbar-shadow-color:#FEE8CF;
+	scrollbar-arrow-color:#FEE8CF;
+	scrollbar-track-color:#FEE8CF;
+}
+
+table	{
+  vertical-align:top;
+	font-family:Arial;
+	font-size:16;
+	text-align:left;
+	border-color:#124A09;
+	font-weight:normal;
+	border-style:solid;
+	font-weight:normal;
+	margin-left:0px;
+	padding-left:2.5em;
+	text-align:justify;
+	border-collapse: collapse;
+	border-width:thin;
+	background-color:#FEE8CF;
+	color: #4600B0;
+	border-collapse: collapse;
+}
+
+table.supertable	{
+  vertical-align:top;
+	font-family:Arial;
+	font-size:16;
+	text-align:left;
+	border-color:#3A17C6;
+	font-weight:normal;
+	border-width:0px;
+	border-style:solid;
+	font-weight:normal;
+	margin-left:0px;
+	border-collapse: collapse;
+	padding:0px;
+}
+
+table.title {
+  vertical-align:top;
+	font-family:Arial;
+	font-size:16;
+	text-align:left;
+	border-color:#124A09;
+	font-weight:bold;
+	border-width:thin;
+	border-style:solid;
+	font-weight:normal;
+	margin-left:0px;
+	text-indent:4px;
+	padding-left:2.5em;
+	margin-top: 10px;
+	background-color:#4600B0;
+	color: #FEE8CF;
+	border-collapse: collapse;
+}
+
+table.supertitle {
+  vertical-align:top;
+	font-family:Arial;
+	font-size:16;
+	text-align:left;
+	border-color:#1F9A18;
+	color:#FEE8CF;
+	background-color:#4600B0;
+	font-weight:normal;
+	border-style:solid;
+	font-weight:normal;
+	margin-left:0px;
+	border-collapse: collapse;
+	padding-left:2.5em;
+}
+
+table.footer {
+  vertical-align:top;
+	font-family:Arial;
+	font-size:16;
+	text-align:left;
+	border-color:#1F9A18;
+	color:#FEE8CF;
+	background-color:#4600B0;
+	font-weight:normal;
+	border-style:solid;
+	font-weight:normal;
+	margin-left:0px;
+	border-collapse: collapse;
+	padding-left:2.5em;
+}
+
+#pad    {
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:100%;
+
+}
+
+#pad_left    {
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:100%;
+
+}
+
+#td_l *, #td_r *{
+	font-size:14;
+	text-align:left;
+}
+
+#td_l    {
+	text-align:left;
+	width:175px;
+}
+
+#td_r    {
+	text-align:left;
+	width:175px;
+}
+
+#td_c    {
+	width:600px;
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:100%;
+
+}
+
+#pad_right    {
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:100%;
+
+}
+
+#padtit    {
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:100%;
+}
+
+
+#padfoot    {
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:2.5px;
+	padding-bottom:2.5px;
+	height:100%;
+}
+
+
+	
+#title    {
+	font-family:Arial;
+	color:#4600B0;
+	font-size:28px;
+	text-align:left;
+	font-weight:normal;
+	text-decoration: normal;
+}
+
+
+#supertitle    {
+  vertical-align:top;
+	font-family:Milano LET;
+	font-size:55px;
+	text-align:left;
+	font-weight:normal;
+	text-decoration: normal;
+}
+
+#subtitle    {
+	font-family:Arial;
+	color:#4600B0;
+	font-size:20px;
+	text-align:left;
+	font-weight:normal;
+	text-decoration: normal;
+}
+
+.error    {
+	font-family:Arial;
+	color:#FF0000;
+	font-size:12px;
+	text-align:left;
+	font-weight:normal;
+	text-decoration: normal;
+}
+
+#red    {
+	color:#FF0000;
+}
+
+a:link 		{font-family:Arial; font-size:15px; color:#4600B0; text-decoration:none; font-style:normal; font-weight:bold}
+a:visited {font-family:Arial; font-size:15px; color:#0101EB; text-decoration:none; font-style:normal; font-weight:bold}
+a:hover 	{font-family:Arial; font-size:15px; color:#FB9204; text-decoration:overline ; font-style:normal; font-weight:bold}
+a:hover 	{font-family:Arial; font-size:15px; color:#FB9204; text-decoration:overline ; font-style:normal; font-weight:bold}
+
+#orangelink	{
+	a:link 		{font-family:Arial; font-size:15px; color:#FB9204; text-decoration:overline ; font-style:normal; font-weight:bold}
+	a:visited 	{font-family:Arial; font-size:15px; color:#FB9204; text-decoration:overline ; font-style:normal; font-weight:bold}
+	a:hover 	{font-family:Arial; font-size:15px; color:#FB9204; text-decoration:overline ; font-style:normal; font-weight:bold}
+	a:hover 	{font-family:Arial; font-size:15px; color:#FB9204; text-decoration:overline ; font-style:normal; font-weight:bold}
+}
