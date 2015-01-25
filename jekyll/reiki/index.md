@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Reiki
+methods: true
+permalink: /reiki/
 ---
 
 > Nach Dr. Mikao Usui

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Astrologische Homöopathie
+methods: true
+permalink: /astrologische-homoeopathie/
 ---
 
 > Nach Münchner Rhythmenlehre W. Döbereiner

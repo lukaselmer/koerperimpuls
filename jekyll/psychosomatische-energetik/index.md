@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Psychosomatische Energetik
+methods: true
+permalink: /psychosomatische-energetik/
 ---
 
 ### Warum bekam die Methode diesen Namen?

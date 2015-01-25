@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kontakt
+permalink: /kontakt/
 ---
 
 <p><address>

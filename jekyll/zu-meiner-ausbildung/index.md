@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Zu meiner Ausbildung
+permalink: /zu-meiner-ausbildung/
 ---
 
 Ausbildung | Ausbildungsort

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Focusing
+methods: true
+permalink: /focusing/
 ---
 
 > Nach Gene Gendlin

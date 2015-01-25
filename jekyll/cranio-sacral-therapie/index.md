@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Cranio-Sacral-Therapie
+methods: true
+permalink: /cranio-sacral-therapie/
 ---
 
 > Nach Dr. John Upledger
