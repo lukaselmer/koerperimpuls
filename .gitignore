@@ -1,2 +1,10 @@
+.DS_Store
 _site/
 .sass-cache/
+logs/*
+!.gitkeep
+.idea
+node_modules
+.tmp
+bower_components
+
