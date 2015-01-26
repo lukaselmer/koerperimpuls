@@ -15,7 +15,9 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $brand-color;
   text-decoration: none;
-  &:hover {
+  outline: 0;
+  &:hover, &:active, &:focus {
     color: $color-violet;
+    outline: 0;
   }
 }
