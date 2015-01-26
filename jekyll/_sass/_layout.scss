@@ -17,6 +17,31 @@
   }
 }
 
+.header-logo {
+  top: 80px;
+  position: absolute;
+  text-align: right;
+  width: inherit;
+  padding-right: 30px;
+  @media(max-width: 767px) {
+    right: 0;
+    padding-right: 10px;
+  }
+  img {
+    height: 80px;
+  }
+}
+
+.footer-logo {
+  @media(max-width: 991px) {
+    display: none;
+  }
+  img {
+    margin-top: -40%;
+    width: 100%;
+  }
+}
+
 .main-content {
   margin-top: 40px;
   margin-bottom: 30px;
