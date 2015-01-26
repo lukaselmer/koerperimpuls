@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: method
 title: Focusing
 methods: true
 permalink: /focusing/

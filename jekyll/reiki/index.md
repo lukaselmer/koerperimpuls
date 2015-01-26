@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: method
 title: Reiki
 methods: true
 permalink: /reiki/

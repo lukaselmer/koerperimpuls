@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: method
 title: Cranio-Sacral-Therapie
 methods: true
 permalink: /cranio-sacral-therapie/

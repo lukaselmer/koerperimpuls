@@ -1,0 +1,14 @@
+---
+layout: page
+---
+<div>{{ content }}</div>
+
+<p>Weiter Therapiearten:</p>
+
+<ul>
+  {% for page in site.pages %}
+  {% if page.methods %}
+  <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>

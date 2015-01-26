@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: method
 title: Astrologische Homöopathie
 methods: true
 permalink: /astrologische-homoeopathie/

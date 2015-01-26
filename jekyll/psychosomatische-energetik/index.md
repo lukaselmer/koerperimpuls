@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: method
 title: Psychosomatische Energetik
 methods: true
 permalink: /psychosomatische-energetik/
