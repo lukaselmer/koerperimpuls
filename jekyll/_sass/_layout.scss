@@ -48,10 +48,15 @@
 }
 
 .site-footer {
+  visibility: hidden;
   font-size: 15px;
-  color: $grey-color;
-  border-top: 1px solid $grey-color-light;
+  color: #ffffff;
   padding: $spacing-unit 0;
+  background: $color-violet;
+
+  a {
+    color: $color-beige;
+  }
 
   .footer-heading {
     font-size: 18px;
