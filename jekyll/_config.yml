@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Körperimpuls: Cranio-Sacral-Therapie, Astrologische Homöopathie,
   Psychosomatische Energetik, Focusing, Reiki
 baseurl: '' # '/koerperimpuls/public' # the subpath of your site, e.g. /blog/
-url: 'http://koerperimpuls.ch' # the base hostname & protocol for your site
+url: 'https://koerperimpuls.ch' # the base hostname & protocol for your site
 twitter_username: christinaelmer
 github_username:  christinaelmer
 
@@ -13,3 +13,5 @@ github_username:  christinaelmer
 markdown: kramdown
 destination: '../public'
 timezone: 'Europe/Zurich'
+plugins:
+  - 'jekyll-coffeescript'
